@@ -1,5 +1,7 @@
 # Дореформенная орѳография. Раскладки с сайта [chtenye.org](http://chtenye.org/dorev-keyboard.html) для macOS
 
+### [Загрузить файл](https://github.com/norwend/prereform-orthography/blob/main/Дореформенная%20орѳографія.bundle.zip?raw=true)
+
 ## Установка 
 1. Перетащите .bundle файл в директорию /Users/%имяпользователя%/Library/Keyboard Layouts
 2. Выйдите из системы
